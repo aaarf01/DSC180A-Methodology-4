@@ -11,11 +11,11 @@ layout: default
 
 **1. What is the most interesting topic covered in your domain this quarter?**
 
-I am most interested in how marine microbial communities respond to nutrient stress and how these responses can be studied through multi-omics. Our Quarter 1 project connects genomic nutrient-stress indicators with satellite observations. This made me interested in combining information about the genes microbes carry with information about which genes they express.
+The most interesting topic covered this quarter is how marine microbial communities respond to nutrient stress and how these responses can be studied through combinations of multi-omic layers or with satellite data. Our Quarter 1 project is a replication of a 2026 paper that connects genomic nutrient-stress indicators with satellite observations. This made me interested in combining information about the genes microbes carry with information about which genes they express. And since this is a relatively new area, the topic of how we can combine those and what information can be implied is very interesting.
 
 **2. Describe a potential investigation you would like to pursue for your Quarter 2 Project.**
 
-One potential investigation would compare metagenomic and metatranscriptomic profiles to examine whether the abundance of nutrient-acquisition genes corresponds to their expression. I would be interested in focusing on one nutrient, such as iron, and investigating where genetic potential and gene expression agree or differ across environmental conditions. A possible data source is Tara Oceans, but I would first need to confirm access to suitable paired samples and environmental metadata. The main output would be a reproducible analysis and report with visualizations of these relationships.
+One potential investigation would compare metagenomic and metatranscriptomic profiles to examine whether the abundance of nutrient-acquisition genes corresponds to their expression. I would be interested in focusing on one nutrient, such as iron, and investigating where genetic potential and gene expression agree or differ across environmental conditions. Possible data source is Qiita which we can access data easily. The main output would be a reproducible analysis and report with visualizations of these relationships.
 
 **3. What is a potential change you'd make to the approach taken in your current Quarter 1 Project?**
 
